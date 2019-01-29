@@ -78,3 +78,9 @@ a:link{
 a:visited{
     color: #333;
 }
+#footer{
+    font-size: 50%;
+    text-align: center;
+    line-height: normal;
+    margin-top: 30px;
+}
