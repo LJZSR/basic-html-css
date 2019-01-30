@@ -20,7 +20,17 @@ body {
   top: 30px;
   left: 365px;
 }
-ßßßß
+
+#coupon{
+  position: fixed;
+  top: 350px;
+  left: -90px;
+}
+
+#coupon a, img{
+  border: none;
+}
+
 div#tableContainer{
   display: table;
   border-spacing: 10px;
