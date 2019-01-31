@@ -42,9 +42,23 @@ caption{
 th{
     background-color: #cc6600;
 }
-tr:nth-child(2n+1){
+/*tr:nth-child(2n+1){
     background-color: #fcba7a
-}
-/*.cellcolor{
-    background-color: #fcba7a;
 }*/
+.cellcolor{
+    background-color: #fcba7a;
+}
+.center{
+    text-align: center;
+}
+.right{
+    text-align: right;
+}
+table table th{
+    background-color: white;
+}
+li{
+    list-style-image: url(images/backpack.gif);
+    padding-top: 5px;
+    margin-left: 20px;
+}
